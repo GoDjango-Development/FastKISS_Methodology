@@ -4,6 +4,7 @@ FUNCTIONS
 
 orchestrator
 
+    Define software architectura -DB Models, APIs, etc.-
     Define FRs -Functional requirements-
     Know all the FRs
     Deliver RF one by one to each producer with an agreed deadline
