@@ -1,0 +1,16 @@
+FastKISS 1.0 by GoDjango.
+
+FUNCTIONS
+
+orchestrator
+
+    Define FRs -Functional requirements-
+    Know all the FRs
+    Deliver RF one by one to each producer with an agreed deadline
+
+Producer
+
+    Develop the FR
+    Create the FR test
+    Ensures that the test is passed.
+    Notify the orchestrator that the FR is ready to be evaluated.
