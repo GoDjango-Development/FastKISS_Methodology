@@ -1,4 +1,4 @@
-FastKISS 1.0 by GoDjango.
+FastKISS 1.1 by GoDjango.
 
 FUNCTIONS
 
@@ -15,3 +15,13 @@ Producer
     Create the FR test
     Ensures that the test is passed.
     Notify the Orchestrator that the FR is ready to be evaluated.
+
+Progress Efficiency
+
+The method to measure the effectiveness of progress within the FastKISS
+Methodology will be TimeFLIES: An application of the speed formula.
+
+number_of_requirements / time_of_dead_line = minimum_ratio_per_unit_time. 
+Progress must be periodically sampled and averaged. By comparing them with
+the result above, it can be estimated whether the rate of progress will be
+enough to meet the deadline.
